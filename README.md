@@ -1,6 +1,6 @@
 # edcelink-v1
 
-[![NSP Status](https://nodesecurity.io/orgs/edcel-celiz/projects/0bbc06e6-6bca-4744-9212-b25bb95063ce/badge)](https://nodesecurity.io/orgs/edcel-celiz/projects/0bbc06e6-6bca-4744-9212-b25bb95063ce)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)] [![NSP Status](https://nodesecurity.io/orgs/edcel-celiz/projects/0bbc06e6-6bca-4744-9212-b25bb95063ce/badge)](https://nodesecurity.io/orgs/edcel-celiz/projects/0bbc06e6-6bca-4744-9212-b25bb95063ce)
 
 A simple link shortener using **`Node.js, Express, MongoDB and EJS`**.
 
